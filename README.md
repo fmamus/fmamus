@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmamus&label=Profile%20views&color=0e75b6&style=plastic" alt="fmamus" /> </p>
 
-<p align="left"> <a href="https://twitter.com/furkanmamus" target="blank"><img src="https://img.shields.io/twitter/follow/furkanmamus?logo=twitter&style=for-the-badge" alt="furkanmamus" /></a> </p>
+<p align="left"> <a href="https://twitter.com/furkanmamus" target="_blank"><img src="https://img.shields.io/twitter/follow/furkanmamus?logo=twitter&style=for-the-badge" alt="furkanmamus" /></a> </p>
 
 - 🌱 I’m currently learning **HMTL5, CSS3, Javascript, React**
 
